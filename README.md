@@ -30,7 +30,6 @@ Desarrollando y manteniendo **[pet-calories-diet](https://github.com/kheredia04/
 A continuación, un vistazo rápido a mi actividad reciente y lenguajes más utilizados:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kheredia04&show_icons=true&theme=radical&include_all_commits=true" alt="Estadísticas de GitHub" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kheredia04&layout=compact&theme=radical" alt="Lenguajes más usados" width="48%" />
 </p>
 
