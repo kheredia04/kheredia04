@@ -19,7 +19,7 @@
 
 ## 📈 En lo que estoy trabajando actualmente
 
-Desarrollando y manteniendo **[pet-calories-diet](https://github.com/TU_USUARIO/pet-calories-diet)**, una librería enfocada en el cálculo y gestión de dietas y calorías para mascotas.
+Desarrollando y manteniendo **[pet-calories-diet](https://github.com/kheredia04/pet-calories-diet)**, una librería enfocada en el cálculo y gestión de dietas y calorías para mascotas.
 *   ⚙️ Profundizando en pipelines de **CI/CD** y despliegues optimizados en la nube.
 *   📚 Siempre refinando patrones de diseño y clean code para mantener el software mantenible a largo plazo.
 
@@ -30,8 +30,8 @@ Desarrollando y manteniendo **[pet-calories-diet](https://github.com/TU_USUARIO/
 A continuación, un vistazo rápido a mi actividad reciente y lenguajes más utilizados:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical" alt="Lenguajes más usados" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kheredia04&show_icons=true&theme=radical&include_all_commits=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kheredia&layout=compact&theme=radical" alt="Lenguajes más usados" width="48%" />
 </p>
 
 ---
@@ -40,8 +40,8 @@ A continuación, un vistazo rápido a mi actividad reciente y lenguajes más uti
 
 ¿Te interesa colaborar en un proyecto, hablar sobre arquitectura de software o simplemente charlar de tecnología? ¡Escríbeme!
 
-*   💼 **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-*   🌐 **Portafolio Web:** [tuweb.com](https://tuweb.com)
-*   📧 **Email:** tu-correo@email.com
+*   💼 **LinkedIn:** [linkedin.com/in/tu-perfil](https://www.linkedin.com/in/kevinherediadev/)
+*   🌐 **Portafolio Web:** [tuweb.com](https://kevin-heredia-cv.netlify.app/)
+*   📧 **Email:** herediackevin@gmail.com
 
 > *"La simplicidad es la clave de la brillantez."*
